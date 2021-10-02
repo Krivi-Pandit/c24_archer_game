@@ -1,1 +1,1 @@
-# c24_archer_game
+# project-C24-template
